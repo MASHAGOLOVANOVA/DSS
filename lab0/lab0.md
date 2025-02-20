@@ -17,11 +17,6 @@
    Интеграция с Telegram, в виде чат-бота, позволит пользоваться системой через популярный мессенджер,
    благодаря чему можно будет с удобством пользоваться системой через мобильные устройства.
 
-   DDD
-   
-   ![image](https://github.com/user-attachments/assets/054c9cac-ef23-49d7-af97-dbfe0ab85e9d)
-   
-
 ## 2. **Репозиторий для разработки:** https://github.com/MASHAGOLOVANOVA/mvp-2-spms
 ## 3. **Требования для Telegram чат-бота.**
    
@@ -85,6 +80,9 @@
 
    ![image](https://github.com/user-attachments/assets/84780e56-fe89-48d4-8619-7489d1b489b3)
 
+   DDD
+   
+   ![image](https://github.com/user-attachments/assets/054c9cac-ef23-49d7-af97-dbfe0ab85e9d)
 
 ## 7. Стек 
   **Язык разработки системы** - Go + python, **IDE** - VSCode + google-colab.
