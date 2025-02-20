@@ -82,7 +82,8 @@
 
    DDD
    
-   ![image](https://github.com/user-attachments/assets/054c9cac-ef23-49d7-af97-dbfe0ab85e9d)
+   ![image](https://github.com/user-attachments/assets/2abfdf36-6c5a-41c8-ba16-019f1f26a4ad)
+
 
 ## 7. Стек 
   **Язык разработки системы** - Go + python, **IDE** - VSCode + google-colab.
