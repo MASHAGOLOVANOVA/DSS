@@ -71,7 +71,17 @@
 
   МР:
 
-  Скрины работы:
+  Скрины проходки тестов обновленных:
 
-  
-  
+![image](https://github.com/user-attachments/assets/f92907ee-fe16-4f81-8e18-2a07cfac3023)
+
+![image](https://github.com/user-attachments/assets/82e7e122-8eb5-40bf-a486-0b2996b17c0f)
+
+![image](https://github.com/user-attachments/assets/0ec2ce6d-34e4-4754-8372-b11683c7adfd)
+
+![image](https://github.com/user-attachments/assets/03d48037-344b-4ff5-9ea3-a300843b2a25)
+
+![image](https://github.com/user-attachments/assets/a855d69a-5be4-4bce-974a-939b5c1936e7)
+
+![image](https://github.com/user-attachments/assets/0416943a-ff65-43b1-b2df-d76bdebcdddb)
+
