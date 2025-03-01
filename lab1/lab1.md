@@ -65,7 +65,7 @@
 
   ![image](https://github.com/user-attachments/assets/54df5c7a-2cec-4eca-84a4-7b1ff7d033d6)
 
-## 3. **Тесты**
+## 4. **Тесты**
 
   Были обновлены, поскольлку была добавлена ассинхронная обработка обращений к бд.
 
@@ -81,7 +81,16 @@
 
 ![image](https://github.com/user-attachments/assets/03d48037-344b-4ff5-9ea3-a300843b2a25)
 
-![image](https://github.com/user-attachments/assets/a855d69a-5be4-4bce-974a-939b5c1936e7)
+## 5. **Docker**
 
-![image](https://github.com/user-attachments/assets/0416943a-ff65-43b1-b2df-d76bdebcdddb)
+Были написаны докер файлы для запуска базы данных (+ тестовой) и веб-сервера, лежат в основной директории проекта
+
+Демонстрация работы проекта с запущенным ботом
+
+![image](https://github.com/user-attachments/assets/42572845-86cd-43bb-a0fb-494a67a8b32e)
+
+Демонстрация работы проекта с веб-клиента
+
+![image](https://github.com/user-attachments/assets/aed76a1e-13ec-4136-9015-30fbe2563f82)
+
 
