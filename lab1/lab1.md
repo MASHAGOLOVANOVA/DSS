@@ -13,7 +13,7 @@
    
    Репо: https://github.com/MASHAGOLOVANOVA/mvp-2-spms
    
-   МР:
+   ПР: https://github.com/MASHAGOLOVANOVA/mvp-2-spms/pull/1
 
 ## 2. **СУБД**
   В рамках практики 0 была выбрана MySQL исходя из следующих факторов:
@@ -29,7 +29,7 @@
 
 ## 3. **Слои системы**
 
-  Листинг по ссылке:
+  Листинг по ссылке: https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice1/main/web_server/cmd/web_app/web_app.go
    
   
   3.1.	Фреймворк
