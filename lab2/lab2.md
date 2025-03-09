@@ -36,19 +36,24 @@
    
    Репо: https://github.com/MASHAGOLOVANOVA/mvp-2-spms
    
-   ПР: https://github.com/MASHAGOLOVANOVA/mvp-2-spms/pull/1
+   ПР: [https://github.com/MASHAGOLOVANOVA/mvp-2-spms/pull/1](https://github.com/MASHAGOLOVANOVA/mvp-2-spms/pull/2)
 
-   tg-bot: 
+   tg-bot МР: https://gitlab.com/university-stuff-group/spm-tg-bot/-/merge_requests/1/diffs
 
 ## 2. **Микросервисы**
   Система была разделена на микросервисы:
   1. Основной сервис
   2. Сервис для работы со студентами
-  3. 
+  3. Сервис для работы с университетами
 
 Интерфейсы для сервиса студентов:
 
+![image](https://github.com/user-attachments/assets/ffaa7266-04a3-43dc-bfe7-aa1ca36af9f0)
+
 Интерфейс для сервиса университетов:
+
+![image](https://github.com/user-attachments/assets/34f261eb-65c2-4726-b8f0-eaa096683e6e)
+
 
 В дальнейшем планируется развивать разбиение на сервисы, на данный момент не хватило времени на реализацию микросервисной архитектуры - очень большое монолитное приложение.
 
@@ -58,18 +63,41 @@
 
 Докерфайл для сервиса по работе со студентами
 
+![image](https://github.com/user-attachments/assets/6ea840f2-20ce-4d67-bf04-1973c26200fa)
+
+
 Докерфайл для сервиса по работе с университетами
+
+![image](https://github.com/user-attachments/assets/3dc268d4-342a-4d6a-8c7c-36941c14f1b5)
+
 
 Докер-компоуз файл
 
-## 4. **Тесты**
-  Были написаны тесты для проверки работы микросервисов
+![image](https://github.com/user-attachments/assets/3145952b-8dd7-4088-8773-14c296b0eef4)
 
+Ссылка:  https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/docker-compose.yml
+
+## 4. **Тесты**
+  Тесты для проверки работы микросервисов
+  student-service:
+  
+  https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/student-service/database/student-repository/student_repository.go
+
+  university-service:
+   https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/university-service/database/university-repository/university_repository.go
 
 ## 4. **Шаблонный репозиторий**
 
   В рамках работы репозиториев для всех репозиториев актуальны следующие методы:
   Например getAll(), getById().
   Полный круд предусмотрен не для всех репозиториев, так что стоит создать шаблонный репозиторий, состоящий из этих методов.
-  
+
+
+## 5. **Демонстрация работы системы**
+
+Скриншот демонстрирует работу новых сервисов, в частности работу с RabbitMQ 
+![image](https://github.com/user-attachments/assets/e9d03d15-5029-44bd-9d4c-e88daaab0129)
+
+
+
   
