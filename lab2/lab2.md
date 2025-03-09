@@ -63,12 +63,12 @@
 
 Докерфайл для сервиса по работе со студентами
 
-![image](https://github.com/user-attachments/assets/6ea840f2-20ce-4d67-bf04-1973c26200fa)
+https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/student.Dockerfile
 
 
 Докерфайл для сервиса по работе с университетами
 
-![image](https://github.com/user-attachments/assets/3dc268d4-342a-4d6a-8c7c-36941c14f1b5)
+https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/uni.Dockerfile
 
 
 Докер-компоуз файл
