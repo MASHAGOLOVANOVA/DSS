@@ -99,8 +99,6 @@
 
 Скриншот демонстрирует работу новых сервисов, в частности работу с RabbitMQ 
 
-![image](https://github.com/user-attachments/assets/e9d03d15-5029-44bd-9d4c-e88daaab0129)
-
 ![image](https://github.com/user-attachments/assets/50be3c2c-98c0-47b7-b9aa-ec53c83ce1ee)
 
 
