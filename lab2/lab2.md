@@ -42,7 +42,7 @@
 
 ## 2. **Микросервисы**
   Система была разделена на микросервисы:
-  1. Основной сервис
+  1. Основной сервис (для работы с задачами, встречами, проектами - (планируется дальнейшая декомпозиция на сервсы))
   2. Сервис для работы со студентами
   3. Сервис для работы с университетами
 
@@ -84,20 +84,24 @@
   https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/student-service/database/student-repository/student_repository.go
 
   university-service:
+  
    https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/university-service/database/university-repository/university_repository.go
 
 ## 4. **Шаблонный репозиторий**
 
   В рамках работы репозиториев для всех репозиториев актуальны следующие методы:
   Например getAll(), getById().
+  
   Полный круд предусмотрен не для всех репозиториев, так что стоит создать шаблонный репозиторий, состоящий из этих методов.
 
 
 ## 5. **Демонстрация работы системы**
 
 Скриншот демонстрирует работу новых сервисов, в частности работу с RabbitMQ 
+
 ![image](https://github.com/user-attachments/assets/e9d03d15-5029-44bd-9d4c-e88daaab0129)
 
+![image](https://github.com/user-attachments/assets/50be3c2c-98c0-47b7-b9aa-ec53c83ce1ee)
 
 
   
