@@ -73,8 +73,6 @@
 
 Докер-компоуз файл
 
-![image](https://github.com/user-attachments/assets/3145952b-8dd7-4088-8773-14c296b0eef4)
-
 Ссылка:  https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice2/main/docker-compose.yml
 
 ## 4. **Тесты**
