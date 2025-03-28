@@ -29,8 +29,3 @@
    https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice3/main/docker-compose.yml
 
 ## 3. **GrayLog**
-
-Докерфайл для сервиса по работе со студентами
-
-## 4. **Тесты**
-  Тесты для проверки работы микросервисов
