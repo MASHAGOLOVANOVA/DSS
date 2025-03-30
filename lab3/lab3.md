@@ -28,4 +28,7 @@
    
    https://github.com/MASHAGOLOVANOVA/mvp-2-spms/blob/dss-practice3/main/docker-compose.yml
 
+![image](https://github.com/user-attachments/assets/be6285fe-33ed-4ca8-bb8a-14d398df2e6a)
+   
+
 ## 3. **GrayLog**
